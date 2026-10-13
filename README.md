@@ -1,4 +1,4 @@
-# im ioa
+# Im ioa
 
 I write Rust and x86-64 assembly close to Windows internals and im comfortable using Linux. My passion lays in server authority and game security, i mostly work in blue teaming.
 
