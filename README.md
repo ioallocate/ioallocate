@@ -2,7 +2,8 @@
 
 I write Rust and x86-64 assembly close to Windows internals and im comfortable using Linux. My passion lays in server authority and game security, i mostly work in blue teaming.
 
-**Now:** studying behavioral analysis with machine learning (HCI partly), client data offloading and RPC, and Windows internals.
+**Now:** studying behavioral analysis with machine learning (HCI partly), client data offloading (RPC too), and cryptography.
+
 **Experience:** a software engineering internship and non published work.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
