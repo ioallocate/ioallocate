@@ -12,4 +12,4 @@ I write Rust and x86-64 assembly close to Windows internals and im comfortable u
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-1F6FEB?style=flat-square)
 
-If you have troubles or incase anything is unclear is an explanation for my section names: ![Section Name Guide](https://github.com/ioallocate/ioallocate/blob/main/SectionNames.md)
+If you have troubles or incase anything is unclear is an explanation for my section names: [Section Name Guide](https://github.com/ioallocate/ioallocate/blob/main/SectionNames.md)
