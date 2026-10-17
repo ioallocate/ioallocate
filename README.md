@@ -1,6 +1,6 @@
 # Im ioa
 
-I write Rust and x86-64 assembly close to Windows internals and im comfortable using Linux. My passion lays in server authority and game security, i mostly work in blue teaming.
+I write Rust/CXX and x86-64 assembly close to Windows internals and im comfortable using Linux. My passion lays in server authority and game security, i mostly work in blue teaming.
 
 **Now:** studying behavioral analysis with machine learning (HCI partly), client data offloading (RPC too), and cryptography.
 
@@ -11,5 +11,6 @@ I write Rust and x86-64 assembly close to Windows internals and im comfortable u
 ![Windows](https://img.shields.io/badge/Windows_Internals-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Blue Team](https://img.shields.io/badge/Blue_Team-1F6FEB?style=flat-square)
+![CXX](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 If you have troubles or incase anything is unclear is an explanation for my section names: [Section Name Guide](https://github.com/ioallocate/ioallocate/blob/main/SectionNames.md)
