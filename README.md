@@ -13,4 +13,4 @@ I write Rust/CXX and x86-64 assembly close to Windows internals and im comfortab
 ![Blue Team](https://img.shields.io/badge/Blue_Team-1F6FEB?style=flat-square)
 ![CXX](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-If you have troubles or incase anything is unclear is an explanation for my section names: [Section Name Guide](https://github.com/ioallocate/ioallocate/blob/main/SectionNames.md)
+If you have troubles or incase anything is unclear, here is an explanation for my section names: [Section Name Guide](https://github.com/ioallocate/ioallocate/blob/main/SectionNames.md)
